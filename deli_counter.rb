@@ -10,3 +10,4 @@ def take_a_number(arry,string)
   arry.each do|i|
   arry.push(string)
   puts "Welcome #{string}.You are number #{arry[i+1]} in line}"
+end 
